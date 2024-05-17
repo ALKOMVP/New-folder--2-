@@ -41,7 +41,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I am a frontend developer in constant training, passionate about the IT
-        world and focused on doing my bit to develop quality software.
+        world and focused on building quality software.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
