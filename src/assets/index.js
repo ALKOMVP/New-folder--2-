@@ -25,11 +25,17 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import modyo from "./company/modyo.png";
+import xepelin from "./company/xepelin.png";
+import digbang from "./company/digbang.png";
+import almundo from "./company/almundo.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import olx from "./olx.png";
+import pasap from "./pasap.png";
+import modyo_screen from "./modyo.png";
 
 export {
   logo,
@@ -57,8 +63,13 @@ export {
   shopify,
   starbucks,
   modyo,
-  tesla,
+  xepelin,
+  digbang,
+  almundo,
   carrent,
   jobit,
   tripguide,
+  olx,
+  pasap,
+  modyo_screen
 };

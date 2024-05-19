@@ -19,11 +19,16 @@ import {
     meta,
     // starbucks,
     modyo,
-    tesla,
+    xepelin,
+    digbang,
+    almundo,
     shopify,
     carrent,
     jobit,
     tripguide,
+    olx,
+    pasap,
+    modyo_screen,
     threejs,
   } from "../assets";
   
@@ -127,7 +132,7 @@ import {
     {
       title: "Full Stack Developer",
       company_name: "Xepelin",
-      icon: tesla,
+      icon: xepelin,
       iconBg: "#E6DEDD",
       date: "Apr 2022 - Nov 2022",
       points: [
@@ -140,7 +145,7 @@ import {
     {
       title: "React Developer",
       company_name: "Digbang",
-      icon: shopify,
+      icon: digbang,
       iconBg: "#383E56",
       date: "Jan 2020 - Apr 2022",
       points: [
@@ -151,7 +156,7 @@ import {
     {
       title: "Frontend Developer",
       company_name: "Almundo",
-      icon: meta,
+      icon: almundo,
       iconBg: "#E6DEDD",
       date: "Nov 2017 - Dec 2019",
       points: [
@@ -189,9 +194,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "OLX Autos",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "OLX Autos is an online platform that facilitates the buying and selling of cars, providing a reliable and convenient experience for users looking for new or used vehicles.",
       tags: [
         {
           name: "react",
@@ -206,13 +211,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: olx,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Pasap",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Pasap Brokers is an application that streamlines the process for insurance brokers by providing tools for managing policies, clients, and claims efficiently on a single platform.",
       tags: [
         {
           name: "react",
@@ -227,13 +232,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: pasap,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Modyo",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Modyo is a digital experience platform that helps businesses create, manage, and optimize web and mobile applications for enhanced customer engagement and digital transformation.",
       tags: [
         {
           name: "nextjs",
@@ -248,7 +253,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: modyo_screen,
       source_code_link: "https://github.com/",
     },
   ];
