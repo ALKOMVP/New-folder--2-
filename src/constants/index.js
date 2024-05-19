@@ -17,7 +17,8 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    // starbucks,
+    modyo,
     tesla,
     shopify,
     carrent,
@@ -113,9 +114,9 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Frontend Developer",
+      company_name: "Modyo",
+      icon: modyo,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
