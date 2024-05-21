@@ -149,7 +149,7 @@ import {
       iconBg: "#383E56",
       date: "Jan 2020 - Apr 2022",
       points: [
-        "I were a part of the Frontend team and had de possibility to be part of one interesting project from scratch to the presentation of the MVP.",
+        "I was a part of the Frontend team and had the possibility to be part of one interesting project from scratch to the presentation of the MVP.",
         "Also, I participated in a interdisciplinary team for the OLX company in his car selling vertical, developing new features and landings for Chile, Mexico and Colombia.",
       ],
     },
